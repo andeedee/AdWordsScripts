@@ -1,7 +1,7 @@
 function main() {
   // Add more error codes if required: http://www.w3schools.com/tags/ref_httpmessages.asp
   var BAD_CODES = [301,400,403,404,408,410,500];
-  var TO = ['luigi@mediawow.co.uk'/*,'your_email@example.com'*/];
+  var TO = ['enter_email_here'/*,'your_email@example.com'*/];
   var SUBJECT = 'Broken Url Report - ' + _getDateString();
   var HTTP_OPTIONS = {
     muteHttpExceptions:true
