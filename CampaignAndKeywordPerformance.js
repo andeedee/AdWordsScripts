@@ -1,3 +1,11 @@
+// Performance Metrics
+
+// Campaign Performance Summary for the Past 7 Days
+// Campaign Performance Month to Date
+// Campaign Performance for Last Month
+// Keyword Performance Summary for the Past 7 Days
+// Daily Keyword Performance for the Past 7 Days
+
 // Create a new spreadsheet in Google Drive and paste URL below. 
 var SPREADSHEET_URL = "PASTE GOOGLE SPREADSHEET URL HERE";
  
