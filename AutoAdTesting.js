@@ -1,11 +1,6 @@
 /*********************************************
 * Automated Creative Testing With Statistical Significance
-* Version 1.1
-* ChangeLog v1.1 
-*   - Added ability to only run on some campaigns
-*   - Fixed bug in info logging
-* Russ Savage
-* FreeAdWordsScripts.com
+* Version x
 **********************************************/
 var EXTRA_LOGS = true;
 var TO = ['your_name@domain.com'];
